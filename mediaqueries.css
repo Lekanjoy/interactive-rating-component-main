@@ -1,0 +1,12 @@
+@media screen and (max-width:468px) {
+    .container .box{
+        width: 20.75rem;
+        height: auto;
+    }
+
+    .container .box2{
+        width: 18.875rem;
+        height: auto;
+    }
+    
+}
